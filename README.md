@@ -29,6 +29,8 @@ This is a simple Hospital Channeling system based on C# and MySQL. I developed t
     * Visual Studio 2019
     * Wamp Server
     * Git and Github tools for Visual Studio
+    
+### License : MIT
 
 ## You are welcome to this update this project if it contains any miss matches.
 
